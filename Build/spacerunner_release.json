@@ -1,0 +1,16 @@
+{
+"companyName": "GoodMedia",
+"productName": "Run3Min",
+"productVersion": "0.1",
+"dataUrl": "spacerunner_release.data.unityweb",
+"wasmCodeUrl": "spacerunner_release.wasm.code.unityweb",
+"wasmFrameworkUrl": "spacerunner_release.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.13f1"
+}
